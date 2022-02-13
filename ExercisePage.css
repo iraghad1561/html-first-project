@@ -1,0 +1,63 @@
+body  {
+               background-image: url("BGExe.jpg");
+               background-repeat: no-repeat;
+               background-attachment: fixed;
+               background-size: 100% 100%;
+               align-items: center;
+               background-color: #cccccc;
+               }
+
+
+
+.column{
+    float: left;
+    width: 50%;
+}
+
+.row{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+h1{
+    color: #4169E1;
+    font-size: 5vw;
+    align-items: center;
+}
+
+legend{
+    color: gainsboro;
+    font-size: 2vw;
+}
+
+button{
+    background: crimson;
+    color: crimson;
+    border-radius: 50%;
+}
+
+.button1{
+    margin-left:38vw; 
+    margin-top: -10vw;
+}
+
+.button2{
+    margin-left: 47vw; 
+    margin-top: 0vw;
+}
+
+.button3{
+    margin-left: 46vw; 
+    margin-top: 3vw;
+}
+
+.button4{
+    margin-left: 37vw; 
+    margin-top: 6vw;
+}
+
+.button5{
+    margin-left: 54vw; 
+    margin-top: 6vw;
+}
